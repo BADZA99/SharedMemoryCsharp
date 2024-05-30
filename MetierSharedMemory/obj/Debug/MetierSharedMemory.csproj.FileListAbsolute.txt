@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll.config
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.pdb
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.dll
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.pdb
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll.config
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.pdb
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.dll
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.pdb

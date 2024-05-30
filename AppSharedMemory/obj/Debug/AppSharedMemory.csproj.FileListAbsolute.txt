@@ -1,0 +1,18 @@
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe.config
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.pdb
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.exe
+C:\Users\LENOVO\source\repos\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.pdb
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe.config
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.pdb
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.exe
+C:\Users\LENOVO\Desktop\Projet Csharp\SolutionAppSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.pdb
