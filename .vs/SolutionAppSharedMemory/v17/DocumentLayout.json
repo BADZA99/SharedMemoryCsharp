@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\metiersharedmemory\\model\\bdsharedmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\bdsharedmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\model\\jurymemoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\jurymemoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\model\\bdsharedmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\bdsharedmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\model\\jury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\jury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E1857A-5273-4488-B4A9-8C1B6B87565B}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\appsharedmemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{32E1857A-5273-4488-B4A9-8C1B6B87565B}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\metiersharedmemory\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32E1857A-5273-4488-B4A9-8C1B6B87565B}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\appsharedmemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32E1857A-5273-4488-B4A9-8C1B6B87565B}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\lenovo\\desktop\\projet csharp\\solutionappsharedmemory\\metiersharedmemory\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0087D9A3-3843-47B2-9499-9B5E765F4DC5}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,80 +58,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JuryMemoire.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\JuryMemoire.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\JuryMemoire.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\JuryMemoire.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Model\\JuryMemoire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:42:35.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Memoire.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Memoire.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\Memoire.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Memoire.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Model\\Memoire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:33:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jury.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Jury.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\Jury.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Jury.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Model\\Jury.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:27:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\Personne.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Model\\Personne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:13:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "MetierSharedMemory\\Migrations\\Configuration.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Migrations\\Configuration.cs",
               "RelativeToolTip": "MetierSharedMemory\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T00:07:00.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BdSharedMemoryContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\BdSharedMemoryContext.cs",
               "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\BdSharedMemoryContext.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Model\\BdSharedMemoryContext.cs",
               "RelativeToolTip": "MetierSharedMemory\\Model\\BdSharedMemoryContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T23:14:28.444Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Web.config",
-              "RelativeDocumentMoniker": "MetierSharedMemory\\Web.config",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Web.config",
-              "RelativeToolTip": "MetierSharedMemory\\Web.config",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwCEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-17T23:01:36.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\AppSharedMemory\\Form1.cs",
-              "RelativeDocumentMoniker": "AppSharedMemory\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\AppSharedMemory\\Form1.cs",
-              "RelativeToolTip": "AppSharedMemory\\Form1.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:05:59.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Service1.svc.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Service1.svc.cs",
-              "RelativeDocumentMoniker": "MetierSharedMemory\\Service1.svc.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\MetierSharedMemory\\Service1.svc.cs",
-              "RelativeToolTip": "MetierSharedMemory\\Service1.svc.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:01:42.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\AppSharedMemory\\Form1.cs",
-              "RelativeDocumentMoniker": "AppSharedMemory\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projet Csharp\\SolutionAppSharedMemory\\AppSharedMemory\\Form1.cs [Design]",
-              "RelativeToolTip": "AppSharedMemory\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T23:50:44.232Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

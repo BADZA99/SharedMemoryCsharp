@@ -133,6 +133,10 @@
   <ItemGroup>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\BdSharedMemoryContext.cs" />
+    <Compile Include="Model\Jury.cs" />
+    <Compile Include="Model\JuryMemoire.cs" />
+    <Compile Include="Model\Memoire.cs" />
+    <Compile Include="Model\Personne.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
     </Compile>
