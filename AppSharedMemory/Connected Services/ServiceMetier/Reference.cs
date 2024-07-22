@@ -74,6 +74,123 @@ namespace AppSharedMemory.ServiceMetier {
         }
     }
     
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="Personne", Namespace="http://schemas.datacontract.org/2004/07/MetierSharedMemory.Model")]
+    [System.SerializableAttribute()]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(AppSharedMemory.ServiceMetier.Jury))]
+    public partial class Personne : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
+        
+        [System.NonSerializedAttribute()]
+        private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int IdPersonneField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string NomField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string PrenomField;
+        
+        [global::System.ComponentModel.BrowsableAttribute(false)]
+        public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
+            get {
+                return this.extensionDataField;
+            }
+            set {
+                this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int IdPersonne {
+            get {
+                return this.IdPersonneField;
+            }
+            set {
+                if ((this.IdPersonneField.Equals(value) != true)) {
+                    this.IdPersonneField = value;
+                    this.RaisePropertyChanged("IdPersonne");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Nom {
+            get {
+                return this.NomField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.NomField, value) != true)) {
+                    this.NomField = value;
+                    this.RaisePropertyChanged("Nom");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Prenom {
+            get {
+                return this.PrenomField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.PrenomField, value) != true)) {
+                    this.PrenomField = value;
+                    this.RaisePropertyChanged("Prenom");
+                }
+            }
+        }
+        
+        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
+        
+        protected void RaisePropertyChanged(string propertyName) {
+            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
+            if ((propertyChanged != null)) {
+                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="Jury", Namespace="http://schemas.datacontract.org/2004/07/MetierSharedMemory.Model")]
+    [System.SerializableAttribute()]
+    public partial class Jury : AppSharedMemory.ServiceMetier.Personne {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string GardeField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string SpecialisteField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Garde {
+            get {
+                return this.GardeField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.GardeField, value) != true)) {
+                    this.GardeField = value;
+                    this.RaisePropertyChanged("Garde");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Specialiste {
+            get {
+                return this.SpecialisteField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.SpecialisteField, value) != true)) {
+                    this.SpecialisteField = value;
+                    this.RaisePropertyChanged("Specialiste");
+                }
+            }
+        }
+    }
+    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceMetier.IService1")]
     public interface IService1 {
@@ -89,6 +206,36 @@ namespace AppSharedMemory.ServiceMetier {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IService1/GetDataUsingDataContractResponse")]
         System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.CompositeType> GetDataUsingDataContractAsync(AppSharedMemory.ServiceMetier.CompositeType composite);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddJury", ReplyAction="http://tempuri.org/IService1/AddJuryResponse")]
+        bool AddJury(AppSharedMemory.ServiceMetier.Jury jury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddJury", ReplyAction="http://tempuri.org/IService1/AddJuryResponse")]
+        System.Threading.Tasks.Task<bool> AddJuryAsync(AppSharedMemory.ServiceMetier.Jury jury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/EditJury", ReplyAction="http://tempuri.org/IService1/EditJuryResponse")]
+        bool EditJury(AppSharedMemory.ServiceMetier.Jury jury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/EditJury", ReplyAction="http://tempuri.org/IService1/EditJuryResponse")]
+        System.Threading.Tasks.Task<bool> EditJuryAsync(AppSharedMemory.ServiceMetier.Jury jury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/DeleteJury", ReplyAction="http://tempuri.org/IService1/DeleteJuryResponse")]
+        bool DeleteJury(int IdJury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/DeleteJury", ReplyAction="http://tempuri.org/IService1/DeleteJuryResponse")]
+        System.Threading.Tasks.Task<bool> DeleteJuryAsync(int IdJury);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetJurys", ReplyAction="http://tempuri.org/IService1/GetJurysResponse")]
+        AppSharedMemory.ServiceMetier.Jury[] GetJurys();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetJurys", ReplyAction="http://tempuri.org/IService1/GetJurysResponse")]
+        System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.Jury[]> GetJurysAsync();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetsJury", ReplyAction="http://tempuri.org/IService1/GetsJuryResponse")]
+        AppSharedMemory.ServiceMetier.Jury GetsJury(string nom, string specialite, string prenom);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetsJury", ReplyAction="http://tempuri.org/IService1/GetsJuryResponse")]
+        System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.Jury> GetsJuryAsync(string nom, string specialite, string prenom);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -132,6 +279,46 @@ namespace AppSharedMemory.ServiceMetier {
         
         public System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.CompositeType> GetDataUsingDataContractAsync(AppSharedMemory.ServiceMetier.CompositeType composite) {
             return base.Channel.GetDataUsingDataContractAsync(composite);
+        }
+        
+        public bool AddJury(AppSharedMemory.ServiceMetier.Jury jury) {
+            return base.Channel.AddJury(jury);
+        }
+        
+        public System.Threading.Tasks.Task<bool> AddJuryAsync(AppSharedMemory.ServiceMetier.Jury jury) {
+            return base.Channel.AddJuryAsync(jury);
+        }
+        
+        public bool EditJury(AppSharedMemory.ServiceMetier.Jury jury) {
+            return base.Channel.EditJury(jury);
+        }
+        
+        public System.Threading.Tasks.Task<bool> EditJuryAsync(AppSharedMemory.ServiceMetier.Jury jury) {
+            return base.Channel.EditJuryAsync(jury);
+        }
+        
+        public bool DeleteJury(int IdJury) {
+            return base.Channel.DeleteJury(IdJury);
+        }
+        
+        public System.Threading.Tasks.Task<bool> DeleteJuryAsync(int IdJury) {
+            return base.Channel.DeleteJuryAsync(IdJury);
+        }
+        
+        public AppSharedMemory.ServiceMetier.Jury[] GetJurys() {
+            return base.Channel.GetJurys();
+        }
+        
+        public System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.Jury[]> GetJurysAsync() {
+            return base.Channel.GetJurysAsync();
+        }
+        
+        public AppSharedMemory.ServiceMetier.Jury GetsJury(string nom, string specialite, string prenom) {
+            return base.Channel.GetsJury(nom, specialite, prenom);
+        }
+        
+        public System.Threading.Tasks.Task<AppSharedMemory.ServiceMetier.Jury> GetsJuryAsync(string nom, string specialite, string prenom) {
+            return base.Channel.GetsJuryAsync(nom, specialite, prenom);
         }
     }
 }
